@@ -3,7 +3,12 @@
   justify-content: space-between;
 }
 
-h4,
-h3 {
+.entries {
+  border-bottom: 1px solid gray;
+  padding-bottom: 25px;
+  margin-bottom: 35px;
+}
+
+h4 {
   text-align: center;
 }
