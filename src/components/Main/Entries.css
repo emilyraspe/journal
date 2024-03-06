@@ -1,0 +1,9 @@
+.entries_head {
+  display: flex;
+  justify-content: space-between;
+}
+
+h4,
+h3 {
+  text-align: center;
+}
