@@ -1,6 +1,7 @@
 import Form from "./Form";
 import Entries from "./Entries";
 import "./Main.css";
+import Tab from "./Tab";
 
 export default function Main() {
   return (
@@ -8,6 +9,7 @@ export default function Main() {
       <main className="main">
         <h3>New Entry</h3>
         <Form />
+        <Tab />
         <Entries />
         <Entries />
         <Entries />
