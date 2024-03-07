@@ -11,8 +11,6 @@ export default function Main() {
         <Form />
         <Tab />
         <Entries />
-        <Entries />
-        <Entries />
       </main>
     </>
   );
