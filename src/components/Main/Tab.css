@@ -1,0 +1,20 @@
+.tab--section {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.tab--number {
+  padding: 5px 15px;
+  margin: 10px;
+  border-radius: 20px;
+  background-color: lightgray;
+}
+
+.tab--active {
+  background-color: #ff4a11;
+  color: white;
+}
+
+.tab--active--text {
+  color: #ff4a11;
+}

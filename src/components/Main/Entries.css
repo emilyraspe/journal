@@ -1,0 +1,14 @@
+.entries_head {
+  display: flex;
+  justify-content: space-between;
+}
+
+.entries {
+  border-bottom: 1px solid gray;
+  padding-bottom: 25px;
+  margin-bottom: 35px;
+}
+
+h4 {
+  text-align: center;
+}

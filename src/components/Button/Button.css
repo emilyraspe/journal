@@ -1,0 +1,21 @@
+.button {
+  background-color: #ff4a11;
+  color: white;
+  border-radius: 8px;
+  padding: 10px 50px;
+  margin-top: 20px;
+  font-size: 1em;
+  font-weight: 500;
+  align-self: center;
+  width: 40%;
+  border: none;
+}
+
+.button--star {
+  background: none;
+  border: none;
+}
+
+.button:hover {
+  border-color: #6a1f09;
+}
