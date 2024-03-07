@@ -1,5 +1,6 @@
 import starFilled from "../../assets/star-filled.svg";
 import "./Entries.css";
+import "../Button/Button.css";
 
 export default function Entries() {
   return (
@@ -8,7 +9,9 @@ export default function Entries() {
         <h4>06. March 2024</h4>
         <div className="entries_head">
           <h3>Title</h3>
-          <img src={starFilled}></img>
+          <button className="button--star">
+            <img src={starFilled}></img>
+          </button>
         </div>
         <p>
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem nobis

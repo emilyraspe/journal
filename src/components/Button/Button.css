@@ -1,4 +1,4 @@
-button {
+.button {
   background-color: #ff4a11;
   color: white;
   border-radius: 8px;
@@ -8,8 +8,14 @@ button {
   font-weight: 500;
   align-self: center;
   width: 40%;
+  border: none;
 }
 
-button:hover {
+.button--star {
+  background: none;
+  border: none;
+}
+
+.button:hover {
   border-color: #6a1f09;
 }
